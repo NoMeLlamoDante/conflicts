@@ -1,5 +1,5 @@
 
-### Conflictos en Git 1 - 10 oct 2025
+### Conflictos en Git
 
 - Dante
 - Pato
